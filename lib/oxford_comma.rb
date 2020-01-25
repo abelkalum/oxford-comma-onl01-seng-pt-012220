@@ -1,5 +1,4 @@
-def oxford_comma(array)
-  values = "kiwi"
+def oxord = "kiwi"
   result = values.join
  puts result
 end
