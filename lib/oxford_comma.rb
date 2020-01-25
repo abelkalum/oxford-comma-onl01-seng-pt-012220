@@ -1,5 +1,4 @@
 def oxford_comma(array)
-  array= ["kiwi"]
-  result = array.join
- puts result
-end
+  return array.first if array.size == 1
+  
+  
